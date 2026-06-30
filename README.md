@@ -1,1 +1,1 @@
-# Deepfake-detection-system
+# deepfake-detection-model
